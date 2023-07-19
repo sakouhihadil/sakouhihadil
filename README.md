@@ -23,14 +23,6 @@ As a graduate in Computer Science with a focus on Machine Learning and Computer 
 - Repository: [Facial-Expression-Recognition](https://github.com/sakouhihadil/Facial-Expression-Recognition)
 - Description: This project showcases my work on facial expression recognition using deep learning techniques. The model can identify different facial expressions, such as happy, sad, angry, and more, from images and video streams.
 
-## Blog Posts
-
-### 1. Introduction to Computer Vision: Concepts and Applications
-- Link: [Medium Blog](https://medium.com/@sakouhihadil/introduction-to-computer-vision-concepts-and-applications)
-
-### 2. Transfer Learning for Image Classification: A Comprehensive Guide
-- Link: [Dev.to Blog](https://dev.to/sakouhihadil/transfer-learning-for-image-classification-a-comprehensive-guide)
-
 ## Contact Me
 
 If you have any questions, collaboration opportunities, or just want to chat about all things data science and computer vision, feel free to reach out to me:
@@ -40,6 +32,4 @@ If you have any questions, collaboration opportunities, or just want to chat abo
 
 Let's connect and make the world a more intelligent place through data and vision!
 
----
-_Remember to replace the links with your actual repositories, blog posts, and contact information._
 
